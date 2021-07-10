@@ -164,8 +164,6 @@ article ul li::marker {
   color: var(--smokegray-l1) !important;
 }
 
-
-
 article ul li h4 {
   margin: 0.3125rem 0 !important;
   text-align: left !important;
@@ -189,6 +187,15 @@ article.wide>p {
 
 article.wide .image-set {
   width: 60%;
+}
+
+span.--highlight {
+  background: top center / auto 1.5rem padding-box space no-repeat, var(--dorkodu-l5) content-box;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  color: var(--text-color);
+  display: inline;
+  line-height: 125%;
 }
 
 @media (min-width: 200px) {
