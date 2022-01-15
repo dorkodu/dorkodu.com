@@ -84,7 +84,7 @@
   }
 }
 
-@media (min-width: 1800px) {
+@media (min-width: 900px) {
   .footer-wrapper {
     width: 80%;
     margin: 0 auto;

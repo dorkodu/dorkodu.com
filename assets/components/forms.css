@@ -37,7 +37,7 @@
 
 .button.--secondary:hover,
 .button.--secondary:focus {
-  background-color: var(--dorkodu-l2) !important;
+  background-color: var(--dorkodu-l3) !important;
   color: var(--dorkodu-d5) !important;
 }
 
